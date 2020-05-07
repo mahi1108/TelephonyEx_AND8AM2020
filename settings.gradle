@@ -1,0 +1,2 @@
+rootProject.name='TelephonyEx_AND8AM2020'
+include ':app'
